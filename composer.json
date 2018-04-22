@@ -1,5 +1,5 @@
 {
-    "name": "goalio/goalio-rememberme",
+    "name": "andrconstruction/goalio-rememberme",
     "description": "Adding Remember Me functionalitiy to ZfcUser",
     "type": "library",
     "license": "BSD-3-Clause",
